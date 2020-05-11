@@ -1,0 +1,6 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectName>CS3041Project-2d</ProjectName>
+    <ScriptingBackend>mono</ScriptingBackend>
+  </PropertyGroup>
+</Project>
